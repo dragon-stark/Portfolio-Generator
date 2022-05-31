@@ -1,0 +1,22 @@
+{
+  "name": "portfolio-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dragon-stark/Portfolio-Generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dragon-stark/Portfolio-Generator/issues"
+  },
+  "homepage": "https://github.com/dragon-stark/Portfolio-Generator#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
+}
