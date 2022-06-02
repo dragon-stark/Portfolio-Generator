@@ -9,5 +9,5 @@
 
 **Linked Here: [Dynamic Portfolio Generator!](https://github.com/dragon-stark/Portfolio-Generator)**
 
-![Test Sample](/Portfolio-Generator/ScreenCapture.png)
+![Test Sample](./utils/ScreenCapture.png)
 
